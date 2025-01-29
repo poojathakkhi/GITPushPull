@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14100.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="0"/>
+  </Header>
+
+  <ProjectProperties>
+    <ProjectData>
+      <GUID val="{8847FAA4-BE23-4D5B-9CB6-7459902D9427}"/>
+      <RemoteFlowMonitorRight comp="-1"/>
+      <NulArithmetic val="N"/>
+      <WindowSortBy val="R"/>
+      <_SystemPulldownMenu comp="-1" obj="1"/>
+      <_SystemContextMenu comp="-1"/>
+      <ExposeComment val="N"/>
+      <ProjectName val="GiTPULLPUSH"/>
+    </ProjectData>
+  </ProjectProperties>
+
+</Application>

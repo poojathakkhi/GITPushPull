@@ -1,0 +1,117 @@
+﻿ <-1> 29/01/2025 06:30:11.003     [Info   ] - Starts Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 29/01/2025 06:30:11.017     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 29/01/2025 06:30:11.100     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 29/01/2025 06:30:11.101     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 29/01/2025 06:30:11.128     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 29/01/2025 06:30:11.135     [Info   ] - Starts Loading Component : System 
+ <-1> 29/01/2025 06:30:11.175     [Info   ] - Ends Loading Component : System 
+ <-1> 29/01/2025 06:30:11.176     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 29/01/2025 06:30:11.236     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 29/01/2025 06:30:11.237     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 29/01/2025 06:30:11.346     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 29/01/2025 06:30:11.347     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 29/01/2025 06:30:11.383     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 29/01/2025 06:30:11.387     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 29/01/2025 06:30:11.413     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 29/01/2025 06:30:11.444     [Info   ] - Ends Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 29/01/2025 06:30:11.451     [Info   ] -   The project was successfully opened.
+ <-1> 29/01/2025 06:32:10.032     [Info   ] - Starts Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 29/01/2025 06:32:10.074     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 29/01/2025 06:32:10.336     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 29/01/2025 06:32:10.336     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 29/01/2025 06:32:10.366     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 29/01/2025 06:32:10.378     [Info   ] - Starts Loading Component : System 
+ <-1> 29/01/2025 06:32:10.424     [Info   ] - Ends Loading Component : System 
+ <-1> 29/01/2025 06:32:10.425     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 29/01/2025 06:32:10.505     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 29/01/2025 06:32:10.506     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 29/01/2025 06:32:10.667     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 29/01/2025 06:32:10.667     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 29/01/2025 06:32:10.708     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 29/01/2025 06:32:10.709     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 29/01/2025 06:32:10.741     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 29/01/2025 06:32:10.775     [Info   ] - Ends Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 29/01/2025 06:32:10.784     [Info   ] -   License file: "D:\MagicXPA410\license.dat", License feature: 'MGCSTK'.
+ <-1> 29/01/2025 06:32:10.808     [Info   ] -   The project was successfully opened.
+ <439653163449794048> 29/01/2025 06:32:16.629     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <439653163449794048> 29/01/2025 06:32:16.631     [Action ] -   Ends Load Task
+ <439653163449794048> 29/01/2025 06:32:16.650     [Action ] -   Starts Task Prefix
+ <439653163449794048> 29/01/2025 06:32:16.668     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <439653163449794048> 29/01/2025 06:32:16.691     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <439653163449794048> 29/01/2025 06:32:16.711     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <439653163449794048> 29/01/2025 06:32:16.732     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <439653163449794048> 29/01/2025 06:32:16.755     [Action ] -   Ends Task Prefix
+ <439653163449794048> 29/01/2025 06:32:17.048     [Action ] -   >>Starts load Batch Task - 'Main Program (GiTPULLPUSH)' in Query mode (Task Instance: 2)
+ <439653163449794048> 29/01/2025 06:32:17.049     [Action ] -   Ends Load Task
+ <439653163449794048> 29/01/2025 06:32:17.440     [Action ] -     Open DB Table - 'testing (#1) (W,W)'
+ <439653163449794048> 29/01/2025 06:32:17.442     [Action ] -     >>Starts load Online Task - 'Browse - testing' in Query mode (Task Instance: 3)
+ <439653163449794048> 29/01/2025 06:32:17.471     [Action ] -     Ends Load Task
+ <439653163449794048> 29/01/2025 06:32:17.494     [Action ] -     Task Mode Change - Query
+ <439653163449794048> 29/01/2025 06:32:17.524     [Action ] -     Task Mode Change - Create
+ <439653163449794048> 29/01/2025 06:32:17.549     [Action ] -     Flow - Variable Column  'T1' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:17.604     [Action ] -     >>  Processing Event  [Context Got Focus]  Control Name :  [T1] 
+ <439653163449794048> 29/01/2025 06:32:19.561     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T1] 
+ <439653163449794048> 29/01/2025 06:32:19.575     [Action ] -     Flow - Variable Column  'T2' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:20.311     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T2] 
+ <439653163449794048> 29/01/2025 06:32:20.314     [Action ] -     Flow - Variable Column  'T3' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:21.197     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T3] 
+ <439653163449794048> 29/01/2025 06:32:21.202     [Action ] -     Flow - Variable Column  'T4' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:22.581     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T4] 
+ <439653163449794048> 29/01/2025 06:32:22.583     [Action ] -     Flow - Variable Column  'T1' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:23.601     [Action ] -     >>  Processing Event  [F4]  [Create Line]  Control Name :  [T1] 
+ <439653163449794048> 29/01/2025 06:32:23.605     [Action ] -     Flow - Variable Column  'T2' (Fast Forward)  [Not Executed]
+ <439653163449794048> 29/01/2025 06:32:23.624     [Action ] -     Flow - Variable Column  'T3' (Fast Forward)  [Not Executed]
+ <439653163449794048> 29/01/2025 06:32:23.643     [Action ] -     Flow - Variable Column  'T4' (Fast Forward)  [Not Executed]
+ <439653163449794048> 29/01/2025 06:32:23.681     [Action ] -     Task Mode Change - Modify
+ <439653163449794048> 29/01/2025 06:32:23.689     [Action ] -     Flow - Variable Column  'T1' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:23.707     [Action ] -     Task Mode Change - Create
+ <439653163449794048> 29/01/2025 06:32:24.948     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T1] 
+ <439653163449794048> 29/01/2025 06:32:24.951     [Action ] -     Flow - Variable Column  'T2' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:26.004     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T2] 
+ <439653163449794048> 29/01/2025 06:32:26.007     [Action ] -     Flow - Variable Column  'T3' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:26.888     [Action ] -     >>  Processing Event  [Tab]  [Next Field]  Control Name :  [T3] 
+ <439653163449794048> 29/01/2025 06:32:26.893     [Action ] -     Flow - Variable Column  'T4' (Step Forward)  
+ <439653163449794048> 29/01/2025 06:32:28.450     [Action ] -     >>  Processing Event  [Esc]  [Exit]  Control Name :  [T4] 
+ <439653163449794048> 29/01/2025 06:32:28.469     [Action ] -     Starts Closing Online Task - 'Browse - testing' (Task Instance: 3)
+ <439653163449794048> 29/01/2025 06:32:28.476     [Action ] -       Closed database testing (#1)
+ <439653163449794048> 29/01/2025 06:32:28.520     [Action ] -   <<Ends Close Task
+ <439653163449794048> 29/01/2025 06:32:28.627     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <439653163449794048> 29/01/2025 06:32:28.628     [Info   ] -   Context released : 
+ <439653163449794048> 29/01/2025 06:32:28.646     [Action ] -   Starts Closing Batch Task - 'Main Program (GiTPULLPUSH)' (Task Instance: 2)
+ <439653163449794048> 29/01/2025 06:32:28.676     [Action ] -   <<Ends Close Task
+ <439653163449794048> 29/01/2025 06:32:28.685     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 1)
+ <439653163449794048> 29/01/2025 06:32:28.714     [Action ] -   <<Ends Close Task
+ <-1> 29/01/2025 06:34:25.029     [Info   ] - Starts Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 29/01/2025 06:34:25.042     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 29/01/2025 06:34:25.110     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 29/01/2025 06:34:25.111     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 29/01/2025 06:34:25.145     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 29/01/2025 06:34:25.162     [Info   ] - Starts Loading Component : System 
+ <-1> 29/01/2025 06:34:25.207     [Info   ] - Ends Loading Component : System 
+ <-1> 29/01/2025 06:34:25.210     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 29/01/2025 06:34:25.285     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 29/01/2025 06:34:25.286     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 29/01/2025 06:34:25.399     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 29/01/2025 06:34:25.401     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 29/01/2025 06:34:25.434     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 29/01/2025 06:34:25.443     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 29/01/2025 06:34:25.472     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 29/01/2025 06:34:25.512     [Info   ] - Ends Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 29/01/2025 06:34:25.520     [Info   ] -   The project was successfully opened.
+ <-1> 29/01/2025 06:47:04.739     [Info   ] - Starts Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 29/01/2025 06:47:04.780     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 29/01/2025 06:47:04.810     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 29/01/2025 06:47:04.830     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 29/01/2025 06:47:04.880     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 29/01/2025 06:47:04.914     [Info   ] - Starts Loading Component : System 
+ <-1> 29/01/2025 06:47:04.971     [Info   ] - Ends Loading Component : System 
+ <-1> 29/01/2025 06:47:04.984     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 29/01/2025 06:47:05.037     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 29/01/2025 06:47:05.053     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 29/01/2025 06:47:05.111     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 29/01/2025 06:47:05.138     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 29/01/2025 06:47:05.187     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 29/01/2025 06:47:05.207     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 29/01/2025 06:47:05.252     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 29/01/2025 06:47:05.299     [Info   ] - Ends Loading Component : D:\MagicXPA410\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 29/01/2025 06:47:05.314     [Info   ] -   The project was successfully opened.
